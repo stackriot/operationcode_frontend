@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Handle line endings automatically for files detected as text
 # and leave all files detected as binary untouched.
 * text=auto
@@ -42,3 +43,6 @@ LICENSE text
 *.ttf binary
 *.eot binary
 *.woff binary
+=======
+* text=auto
+>>>>>>> 33948b89391ef32219cea380dd89fb25f185ee10
